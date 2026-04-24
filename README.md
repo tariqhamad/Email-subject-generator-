@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ybl-OWEZHviebbokMBV69maUCPLuC4nn#scrollTo=N_ZEqJ1uxIQc)
+
 # Email-subject-generator-
 AI-powered email subject line generator using OpenAI GPT
 
